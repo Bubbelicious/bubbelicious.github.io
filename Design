@@ -1,0 +1,121 @@
+<style>
+* {
+  margin: 0;
+  padding: 0;
+}
+html {
+  box-sizing: border-box;
+  background-image: url("https://images.assetsdelivery.com/compings_v2/lilkar/lilkar1310/lilkar131000002.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 0px -150px;
+  /*background-image: linear-gradient(-10deg, #ffe6b3, #e6ffff, #ffffff);*/
+    background-attachment: fixed;
+}
+
+a {
+  text-decoration: none;
+  color: #006600;
+}
+#navbar {
+  background-color: rgba(255, 204, 221, 0.7);
+  position: fixed;
+  display: flex;
+  justify-content: space-between;
+  width: 100vw;
+}
+ul > li {
+  list-style: none;
+  display: inline-block;
+  padding: 5px 20px 5px 10px;
+}
+.project {
+  height: 100vh;
+}
+
+#footer {
+  display: flex;
+  justify-content: space-around;
+  background-color: #383838;
+  width: 100vw;
+  height: 15vh;
+  padding: 10px;
+}
+h1, h2, h3 {
+  font-family: 'Josefin Sans', sans-serif;
+  color: #004d00
+}
+h1 {
+  font-weight: 800;
+  font-size: 4em;
+  text-align: center;
+}
+h2 {
+  font-weight: 500;
+  font-size: 1.4em;
+  padding: 5px;
+  width: 18em;
+}
+h3 {
+  font-size: 1.6em;
+  text-align: center;
+}
+a {
+  font-family: 'Mukta', sans-serif;
+}
+a:hover {
+  text-decoration: underline;
+}
+.img2 {
+  height: 95%;
+  margin: 2px;
+}
+.img3 {
+  height: 80%;
+  margin: 7px;
+}
+p {
+  font-size: 1.4em;
+  font-family: 'Mukta', sans-serif;
+  text-align: center;
+  color: #e6005c;
+}
+hr {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0));
+}
+</style>
+<link href="https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css?family=Mukta&display=swap" rel="stylesheet"/>
+ 
+<nav id="navbar">
+      <ul>
+        <li><a href="#"><u>Design</u></a></li>
+        <li><a href="#">Art</a></li>
+        <li><a href="#">About me</a></li>
+  </ul>
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#footer">Contact</a></li></ul></nav>
+<section id="project-design">
+  <div class="project">
+    
+  </div>
+<hr>
+  <div class="project">
+    
+  </div>
+<hr>
+  <div class="project">
+    
+  </div>
+</section>
+
+<section id="footer">
+      <div><a id="profile-link" href="https://www.instagram.com/lilla_bubblan/" target="_blank"><img src="https://www.freepnglogos.com/uploads/download-instagram-png-logo-20.png" class="img2"></a>
+        <a id="profile-link" href="https://www.linkedin.com/in/maya-otterst%C3%A5l-497b64169/" target="_blank"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" class="img3"></a></div>
+      <div><p>Contact:<br>vonmanga@gmail.com</p></div>
+</section>
+    
+    
