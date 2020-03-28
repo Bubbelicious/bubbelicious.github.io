@@ -92,11 +92,11 @@ hr {
 <nav id="navbar">
       <ul>
         <li><a href="#"><u>Design</u></a></li>
-        <li><a href="#">Art</a></li>
+        <li><a href="Art">Art</a></li>
         <li><a href="#">About me</a></li>
   </ul>
       <ul>
-        <li><a href="#">Home</a></li>
+        <li><a href="Home">Home</a></li>
         <li><a href="#footer">Contact</a></li></ul></nav>
 <section id="project-design">
   <div class="project">

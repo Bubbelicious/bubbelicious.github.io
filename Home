@@ -194,9 +194,9 @@ hr {
  
 <nav id="navbar">
       <ul>
-        <li><a href="#"> Design</a></li>
-        <li><a href="#">Art</a></li>
-        <li><a href="#welcome-section">About me</a></li>
+        <li><a href="Design">Design</a></li>
+        <li><a href="Art">Art</a></li>
+        <li><a href="#">About me</a></li>
   </ul>
       <ul>
         <li><a href="#"><u>Home</u></a></li>
@@ -213,7 +213,7 @@ hr {
     <section id="projects">
       <div class="project-tile"><h2>Recent Projects</h2>
         <div class="project-item">
-          <img src="Pictures\MobileNowa.jpg" class="picture">
+          <img src="Pictures\MobileNowa.jpg" class="picture alt="NoWa-app">
           <p class="p1">Placeholding text</p>
         </div>
         <div class="project-item">

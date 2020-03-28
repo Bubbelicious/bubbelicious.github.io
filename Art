@@ -104,12 +104,12 @@ hr {
  
 <nav id="navbar">
       <ul>
-        <li><a href="#">Design</a></li>
+        <li><a href="Design">Design</a></li>
         <li><a href="#"><u>Art</u></a></li>
         <li><a href="#">About me</a></li>
   </ul>
       <ul>
-        <li><a href="#">Home</a></li>
+        <li><a href="Home">Home</a></li>
         <li><a href="#footer">Contact</a></li></ul></nav>
 <section id="project-design">
   <div class="project">
