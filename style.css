@@ -1,6 +1,7 @@
 body {
     margin: 0;
     padding: 0;
+    width: 100vw;
     box-sizing: border-box;
     background-color: #e6ffff;
     background-image: url("https://images.assetsdelivery.com/compings_v2/lilkar/lilkar1310/lilkar131000002.jpg");
