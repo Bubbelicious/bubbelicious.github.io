@@ -29,7 +29,7 @@
     <section id="projects">
       <div class="project-tile"><h2>Recent Projects</h2>
         <div class="project-item">
-          <img src="Pictures\MobileNowa.jpg" class="picture alt="NoWa-app">
+          <img src="Pictures\MobileNowa.jpg" class="picture" alt="NoWa-app">
           <p class="p1">Placeholding text</p>
         </div>
         <div class="project-item">
