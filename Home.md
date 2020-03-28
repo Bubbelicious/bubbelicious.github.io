@@ -2,11 +2,9 @@
 <html>
 <head>
 <style>
-* {
+body {
   margin: 0;
   padding: 0;
-}
-body {
   box-sizing: border-box;
   background-color: #e6ffff;
   background-image: url("https://images.assetsdelivery.com/compings_v2/lilkar/lilkar1310/lilkar131000002.jpg");
@@ -15,7 +13,6 @@ body {
   background-size: cover;
   background-position: 0px -40px;
 }
-
 a {
   text-decoration: none;
   color: #006600;
