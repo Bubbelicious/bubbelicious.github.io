@@ -1,9 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
 <style>
 * {
   margin: 0;
   padding: 0;
 }
-html {
+body {
   box-sizing: border-box;
   background-color: #e6ffff;
   background-image: url("https://images.assetsdelivery.com/compings_v2/lilkar/lilkar1310/lilkar131000002.jpg");
@@ -191,7 +194,8 @@ hr {
 </style>
 <link href="https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap" rel="stylesheet"/>
 <link href="https://fonts.googleapis.com/css?family=Mukta&display=swap" rel="stylesheet"/>
- 
+ </head>
+ <body>
 <nav id="navbar">
       <ul>
         <li><a href="Design">Design</a></li>
@@ -232,5 +236,6 @@ hr {
         <a id="profile-link" href="https://www.linkedin.com/in/maya-otterst%C3%A5l-497b64169/" target="_blank"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" class="img3"></a></div>
       <div><p>Contact:<br>vonmanga@gmail.com</p></div>
 </section>
-    
+</body>
+</html>    
     
