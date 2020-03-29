@@ -1,7 +1,7 @@
 
 html {
-    margin: 0;
-    padding: 0;
+    margin: 0px;
+    padding: 0px;
 }
 body {
     width: 100%;
@@ -54,14 +54,28 @@ body {
   @media (max-width: 40em) {
     #projects {
       flex-direction: column;
-      width: 100vw;
-      margin-bottom: 5px;
     }
   }
   #projects {
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
     width: 100vw;
+  }
+  .project-tile {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    width: 100vw;
+    margin: 0px 20px;
+    text-align: center;
+  }
+  @media (max-width: 40em) {
+    .project-tile {
+      width: 100vw;
+      align-self: center;
+      margin-bottom: 5px;
+    }
   }
   .project-item {
     display: flex;
