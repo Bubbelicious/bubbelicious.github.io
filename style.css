@@ -47,38 +47,21 @@ body {
   #welcome-section {
     display: flex;
     justify-content: space-around;
-    align-items: center;
-    background-size: 100%;
+    margin: auto 0px;
     height: 100vh;
     width: 100vw;
   }
   @media (max-width: 40em) {
     #projects {
       flex-direction: column;
+      width: 100vw;
+      margin-bottom: 5px;
     }
   }
   #projects {
-    background-color: transparent;
     display: flex;
     justify-content: space-around;
     width: 100vw;
-  }
-  .project-tile {
-    display: flex;
-    flex-wrap: wrap;
-    flex-direction: row;
-    justify-content: space-around;
-    width: 95vw;
-    margin: 20px;
-    border-radius: 10px;
-    text-align: center;
-  }
-  @media (max-width: 40em) {
-    .project-tile {
-      width: 90vw;
-      align-self: center;
-      margin-bottom: 5px;
-    }
   }
   .project-item {
     display: flex;

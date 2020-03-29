@@ -1,7 +1,6 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" href="style.css">
 <link href="https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap" rel="stylesheet"/>
 <link href="https://fonts.googleapis.com/css?family=Mukta&display=swap" rel="stylesheet"/>
@@ -39,7 +38,7 @@
           <img src="#" class="picture">
           <p class="p1">Placeholding text</p>
         </div>
-        <p>More projects: <a href="#">Design</a> or <a href="#">Art</a></p>
+        <p>More projects: <a href="Design.html">Design</a> or <a href="Art.html">Art</a></p>
       </div>
     </section>
     <section id="footer">
