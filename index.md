@@ -9,8 +9,8 @@
  <body>
 <nav id="navbar">
       <ul>
-        <li><a href="Design">Design</a></li>
-        <li><a href="Art">Art</a></li>
+        <li><a href="Design.html">Design</a></li>
+        <li><a href="Art.html">Art</a></li>
         <li><a href="#">About me</a></li>
   </ul>
       <ul>
