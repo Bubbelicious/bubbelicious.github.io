@@ -4,7 +4,6 @@ html {
     padding: 0px;
 }
 body {
-    width: 100%;
     box-sizing: border-box;
     background-color: #e6ffff;
     background-image: url("https://images.assetsdelivery.com/compings_v2/lilkar/lilkar1310/lilkar131000002.jpg");
@@ -32,7 +31,7 @@ body {
     position: relative;
     display: flex;
     justify-content: space-between;
-    width: 100vw;
+    width: 100%;
   }
   ul > li {
     list-style: none;
