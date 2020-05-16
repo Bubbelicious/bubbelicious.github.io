@@ -86,11 +86,6 @@ body {
     margin: 5px 0 10px 0;
     box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.3);
   }
-  .picture {
-    max-height: 80%;
-    max-width: 40%;
-    margin: auto 0px;
-  }
   .p1 {
     font-size: 1em;
     color: #000000;
@@ -171,14 +166,6 @@ body {
   }
   #image:hover .overlay {
     opacity: 1;
-  }
-  .img2 {
-    height: 95%;
-    margin: 2px;
-  }
-  .img3 {
-    height: 80%;
-    margin: 7px;
   }
   .project-item:hover {
     width: 93%;
@@ -289,4 +276,18 @@ img {
 /* On smaller screens, decrease text size */
 @media only screen and (max-width: 300px) {
   .prev, .next,.text {font-size: 11px}
+}
+
+.picture {
+  max-height: 80%;
+  max-width: 40%;
+  margin: auto 0px;
+}
+.img2 {
+  height: 95%;
+  margin: 2px;
+}
+.img3 {
+  height: 80%;
+  margin: 7px;
 }
