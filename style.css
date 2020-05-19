@@ -15,7 +15,7 @@ body {
       background-position: 0px -150px;
   }
   .project-page {
-    height: 90vh;
+    height: 70vh;
     display: flex;
     flex-direction: column;
     justify-content: space-around;
@@ -186,10 +186,13 @@ body {
   .mySlides {
     display: none;
   }
+  .slideImg {
+    max-width: 90vw;
+    max-height: 70vh;
+  }
 
   .slideshow-container {
     max-width: 90vw;
-    max-height: 80vh;
     position: relative;
     margin: auto;
   }
