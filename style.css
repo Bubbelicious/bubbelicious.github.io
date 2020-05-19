@@ -185,6 +185,7 @@ body {
   
   .mySlides {
     display: none;
+    vertical-align: middle;
   }
   .slide-img {
     max-width: 90vw;
@@ -194,7 +195,6 @@ body {
   .slideshow-container {
     max-width: 1000px;
     position: relative;
-    margin: auto;
   }
 
   .prev, .next {
