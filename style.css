@@ -197,6 +197,7 @@ body {
     max-width: 1000px;
     position: relative;
     align-items: center;
+    margin-left: 400px;
   }
 
   .prev, .next {
