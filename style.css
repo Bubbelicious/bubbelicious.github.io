@@ -18,7 +18,7 @@ body {
     height: 70vh;
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: space-evenly;
   }
   a {
     text-decoration: none;
@@ -186,7 +186,7 @@ body {
   
   .mySlides {
     display: none;
-    vertical-align: middle;
+    align-items: center;
   }
   .slide-img {
     max-width: 90vw;
@@ -196,6 +196,7 @@ body {
   .slideshow-container {
     max-width: 1000px;
     position: relative;
+    align-items: center;
   }
 
   .prev, .next {
