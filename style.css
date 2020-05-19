@@ -119,6 +119,11 @@ body {
     font-size: 1.6em;
     text-align: center;
   }
+  h5 {
+    text-align: center;
+    padding: 20px;
+    color: transparent;
+  }
   a {
     font-family: 'Mukta', sans-serif;
   }
@@ -180,11 +185,11 @@ body {
   
   .mySlides {
     display: none;
-    background: rgba(255, 255, 255, 0.8);
   }
 
   .slideshow-container {
     max-width: 90vw;
+    max-height: 80vh;
     position: relative;
     margin: auto;
   }
