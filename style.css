@@ -15,9 +15,9 @@ body {
       background-position: 0px -150px;
   }
   .project-page {
-    height: 70vh;
+    height: 80vh;
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     justify-content: space-around;
     margin: auto;
   }
