@@ -186,18 +186,16 @@ body {
   
   .mySlides {
     display: none;
-    align-items: center;
   }
   .slide-img {
     max-width: 90vw;
-    max-height: 60vh;
+    max-height: 70vh;
   }
 
   .slideshow-container {
-    max-width: 1000px;
+    max-width: 500px;
     position: relative;
-    align-items: center;
-    margin-left: 400px;
+    margin-left: 200px;
   }
 
   .prev, .next {
@@ -229,7 +227,7 @@ body {
     font-size: 15px;
     padding: 8px 12px;
     position: absolute;
-    bottom: 8px;
+    bottom: 0;
     width: 100%;
     text-align: center;
   }
