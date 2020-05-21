@@ -17,8 +17,9 @@ body {
   .project-page {
     height: 70vh;
     display: flex;
-    flex-direction: column;
-    justify-content: space-evenly;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: auto;
   }
   a {
     text-decoration: none;
@@ -193,9 +194,9 @@ body {
   }
 
   .slideshow-container {
-    max-width: 500px;
+    max-width: 80vw;
+    max-height: 70vh;
     position: relative;
-    margin-left: 200px;
   }
 
   .prev, .next {
