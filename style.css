@@ -91,7 +91,7 @@ body {
   .p1 {
     font-size: 1em;
     color: #000000;
-    margin: auto 0px;
+    top: 50%;
   }
   #footer {
     display: flex;
