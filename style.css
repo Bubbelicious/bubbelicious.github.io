@@ -9,7 +9,10 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
+    opacity: 0.6;
     background-position: 0px -40px;
+    filter: blur(8px);
+  -webkit-filter: blur(8px);
   }
   #design {
       background-position: 0px -150px;
