@@ -4,15 +4,29 @@ html {
 }
 body {
     box-sizing: border-box;
+  }
+  .content:before {
+    content: "";
+    position: fixed;
+    left: 0;
+    right: 0;
+    z-index: -1;
+    display: block;
     background-color: #e6ffff;
     background-image: url("https://images.assetsdelivery.com/compings_v2/lilkar/lilkar1310/lilkar131000002.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-    opacity: 0.6;
     background-position: 0px -40px;
+    opacity: 0.6;
     filter: blur(8px);
   -webkit-filter: blur(8px);
+  }
+  .content {
+    position: fixed;
+    left: 0;
+    right: 0;
+    z-index: 0;
   }
   #design {
       background-position: 0px -150px;
