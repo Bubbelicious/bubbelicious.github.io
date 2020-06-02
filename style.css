@@ -62,11 +62,11 @@ body {
     width: 100%;
   }
   #about_me {
-    width: 100%;
+    width: 100vw;
   }
   #cv {
-    width: 95%;
-    padding: 7px;
+    width: 95vw;
+    padding: 5px;
     margin: auto;
   }
   .project-tile {
