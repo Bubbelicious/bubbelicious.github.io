@@ -339,7 +339,7 @@ body {
 }
  .cv_right {
     border-left: 1px solid #e6005c;
-    padding: 10px 10px 45px 10px;
+    padding: 10px 5px 50px 5px;
     width: 25%;
     float: right;
     background-color:rgba(255, 255, 255, 0.8);
@@ -348,7 +348,7 @@ body {
   .cv-img {
     width: 280px;
     height: 350px;
-    margin: auto;
+    padding-left: 5px;
   }
   .cv_description {
     background-color:rgba(255, 255, 255, 0.8);
