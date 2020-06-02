@@ -339,26 +339,26 @@ body {
 }
  .cv_right {
     border-left: 1px solid #e6005c;
-    padding: 10px 5px 50px 5px;
+    padding: 10px 5px 55px 5px;
     width: 25%;
     float: right;
     background-color:rgba(255, 255, 255, 0.8);
-    margin-left: 5px;
+    margin-left: 2px;
   }
   .cv-img {
     width: 280px;
     height: 350px;
-    padding-left: 5px;
+    padding-left: 10px;
   }
   .cv_description {
     background-color:rgba(255, 255, 255, 0.8);
-    margin: 10px;
+    margin: 5px;
     padding: 20px;
     width: 70%
   }
   .cv_content {
     background-color:rgba(255, 255, 255, 0.8);
-    margin: 10px;
+    margin: 5px;
     padding: 20px;
     width: 70%;
   }
