@@ -348,11 +348,12 @@ body {
   .cv-img {
     width: 280px;
     height: 350px;
+    margin: 10px, auto;
   }
   .cv_description {
     background-color:rgba(255, 255, 255, 0.8);
     margin: 5px;
-    padding: 15px;
+    padding: 20px;
     width: 70%
   }
   .cv_content {
