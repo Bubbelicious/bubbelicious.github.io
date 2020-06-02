@@ -61,6 +61,14 @@ body {
     justify-content: space-around;
     width: 100%;
   }
+  #about_me {
+    width: 100%;
+  }
+  #cv {
+    width: 95%;
+    padding: 7px;
+    margin: auto;
+  }
   .project-tile {
     display: flex;
     flex-wrap: wrap;
@@ -90,6 +98,7 @@ body {
     margin: 5px 0 10px 0;
     box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.3);
   }
+ 
   .p1 {
     font-size: 1em;
     color: #000000;
@@ -328,3 +337,26 @@ body {
   flex-direction: row;
   justify-content: space-around;
 }
+ .cv_right {
+    border-left: 1px solid #e6005c;
+    padding: 5px;
+    width: 25%;
+    float: right;
+    background-color:rgba(255, 255, 255, 0.8);
+    text-align: left;
+  }
+  .cv-img {
+    width: 150px;
+    height: 200px;
+    float: right;
+  }
+  .cv_description {
+    background-color:rgba(255, 255, 255, 0.8);
+    margin: 5px;
+    text-align: left;
+  }
+  .cv_content {
+    background-color:rgba(255, 255, 255, 0.8);
+    margin: 5px;
+    text-align: left;
+  }
