@@ -347,13 +347,12 @@ body {
   }
   .cv-img {
     width: 280px;
-    height: 370px;
-    float: right;
+    height: 350px;
   }
   .cv_description {
     background-color:rgba(255, 255, 255, 0.8);
     margin: 5px;
-    padding: 10px;
+    padding: 15px;
     width: 70%
   }
   .cv_content {
