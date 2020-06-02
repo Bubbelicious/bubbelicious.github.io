@@ -343,7 +343,7 @@ body {
     width: 25%;
     float: right;
     background-color:rgba(255, 255, 255, 0.8);
-    margin-left: 2px;
+    margin-left: 5px;
   }
   .cv-img {
     width: 280px;
@@ -352,13 +352,13 @@ body {
   }
   .cv_description {
     background-color:rgba(255, 255, 255, 0.8);
-    margin: 5px;
+    margin: 10px;
     padding: 20px;
     width: 70%
   }
   .cv_content {
     background-color:rgba(255, 255, 255, 0.8);
-    margin: 5px;
+    margin: 10px;
     padding: 20px;
     width: 70%;
   }
