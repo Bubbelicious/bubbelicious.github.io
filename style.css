@@ -144,6 +144,13 @@ body {
     text-align: center;
     color: #e6005c;
   }
+  .contact {
+    font-size: 1.2em;
+    font-family: 'Mukta', sans-serif;
+    margin: 2px;
+    text-align: center;
+    color: #e6005c;
+  }
   .img1 {
     width: 18em;
     height: 18em;
