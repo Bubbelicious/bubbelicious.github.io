@@ -100,6 +100,13 @@ body {
     color: #000000;
     margin: auto;
   }
+  .p2 {
+    font-family: 'Mukta', sans-serif;
+    font-size: 1.2em;
+    color: #000000;
+    margin: auto;
+    text-align: left;
+  }
   .projecttext {
     margin: auto;
     text-align: left;
