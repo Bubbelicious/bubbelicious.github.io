@@ -95,13 +95,14 @@ body {
   }
  
   .p1 {
-    font-family: 'Josefin Sans', sans-serif;
-    font-size: 1.3em;
+    font-family: 'Mukta', sans-serif;
+    font-size: 1.2em;
     color: #000000;
     margin: auto;
   }
   .projecttext {
     margin: auto;
+    text-align: left;
   }
   #footer {
     display: flex;
