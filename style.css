@@ -327,12 +327,8 @@ body {
   margin: auto;
 }
 .pro-description {
-  background: rgba(255, 255, 255, 0.8);
-  box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.3);
-  padding: 10px;
   margin: auto;
   text-align: left;
-  width: 35vw;
 }
 .container2 {
   margin: auto;
