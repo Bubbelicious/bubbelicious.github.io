@@ -322,9 +322,9 @@ body {
   margin: auto;
 }
 .projectimg {
-  max-height: 80vh;
-  max-width: 15vw;
-  margin: auto, 3px;
+  max-height: 60vh;
+  max-width: 20vw;
+  margin: auto;
 }
 .pro-description {
   background: rgba(255, 255, 255, 0.8);
