@@ -326,6 +326,11 @@ body {
   max-width: 20vw;
   margin: auto;
 }
+.projectimg2 {
+  max-height: 40vh;
+  max-width: 60vw;
+  margin: auto;
+}
 .pro-description {
   margin: auto;
   text-align: left;
