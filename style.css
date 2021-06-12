@@ -337,6 +337,11 @@ body {
   max-width: 40vw;
   margin: auto;
 }
+.projectimg3 {
+  max-height: 60vh;
+  max-width: 60vw;
+  margin: auto;
+}
 .pro-description {
   margin: auto;
   text-align: left;
