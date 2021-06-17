@@ -21,7 +21,7 @@ body {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
-    margin: 10px;
+    margin: auto;
   }
   a {
     text-decoration: none;
@@ -348,7 +348,7 @@ body {
   margin: auto;
 }
 .pro-description {
-  margin: 10px;
+  margin: auto, 20px;
   text-align: left;
 }
 .container2 {
