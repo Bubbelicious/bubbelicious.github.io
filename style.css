@@ -348,7 +348,10 @@ body {
   margin: auto;
 }
 .pro-description {
-  margin: auto, 20px;
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-right: 20px;
+  margin-left: 20px;
   text-align: left;
 }
 .container2 {
