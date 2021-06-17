@@ -63,6 +63,7 @@ body {
   }
   #project-design {
     max-width: 90vw;
+    margin: auto;
   }
   #about_me {
     background-position: 0px -150px;
