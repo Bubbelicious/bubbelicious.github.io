@@ -390,7 +390,7 @@ body {
     border-left: 1px solid #e6005c;
     padding: 10px 5px 5px 5px;
     width: 25%;
-    height: stretch;
+    height: max-content;
     float: right;
     background-color:rgba(255, 255, 255, 0.8);
     margin-left: 2px;
