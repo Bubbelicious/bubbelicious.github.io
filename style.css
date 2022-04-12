@@ -41,6 +41,7 @@ ul > li {
   }
   .ul1 {
     list-style-type: circle;
+    display: none;
   }
   @media (max-width: 40em) {
     #welcome-section {
