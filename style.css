@@ -34,12 +34,12 @@ body {
     justify-content: space-between;
     width: 100%;
   }
-ul > li.navul {
-    list-style: none;
+ul.navul {
+    list-style-type: none;
     display: inline-block;
     padding: 5px 20px 5px 10px;
   }
-  ul > li.ul1 {
+  ul.ul1 {
     list-style-type: circle;
   }
   @media (max-width: 40em) {
