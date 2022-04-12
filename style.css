@@ -34,10 +34,13 @@ body {
     justify-content: space-between;
     width: 100%;
   }
-  ul > li {
+  .navul {
     list-style: none;
     display: inline-block;
     padding: 5px 20px 5px 10px;
+  }
+  .ul1 {
+    list-style-type: circle;
   }
   @media (max-width: 40em) {
     #welcome-section {
