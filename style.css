@@ -39,8 +39,9 @@ ul > li {
     display: inline-block;
     padding: 5px 20px 5px 10px;
   }
-  .ul1 ul > li {
+  ul > li.ul1 {
     list-style-type: circle;
+    display: none;
   }
   @media (max-width: 40em) {
     #welcome-section {
