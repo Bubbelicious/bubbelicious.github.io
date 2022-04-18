@@ -249,7 +249,7 @@ body {
       background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0));
   }
   
-  .mySlides1, .mySlides2, .mySlides3 {
+  .mySlides1, .mySlides2, .mySlides3, .mySlides4 {
     display: none;
   }
   .slide-img {
