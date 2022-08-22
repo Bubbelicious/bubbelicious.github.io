@@ -15,7 +15,7 @@ body {
   }
   @media (max-width: 40em) {
     body {
-      background-size: stretch;
+      background-size: 100% cover;
     }
   }
 
@@ -59,7 +59,7 @@ body {
   @media (max-width: 40em) {
     #welcome-section {
       flex-direction: column;
-      padding-top: 20px;
+      padding-top: 50px;
     }
   }
   #welcome-section {
@@ -274,7 +274,6 @@ body {
   }
   @media (max-width: 40em) {
     .project-item:hover {
-      width: 90%;
       height: auto;
     }
   }
