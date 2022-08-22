@@ -15,7 +15,7 @@ body {
   }
   @media (max-width: 40em) {
     body {
-      background-size: 100vw 100vh;
+      background-size: auto 100vh;
     }
   }
 
@@ -99,7 +99,6 @@ body {
   }
   @media (max-width: 40em) {
     .project-tile {
-      width: 100vw;
       align-self: center;
       margin-bottom: 5px;
     }
@@ -119,7 +118,6 @@ body {
   @media (max-width: 40em) {
     .project-item {
       flex-direction: column;
-      width: 90vw;
       height: auto;
       padding: 10px;
     }
@@ -275,7 +273,7 @@ body {
   }
   @media (max-width: 40em) {
     .project-item:hover {
-      width: 90vw;
+      width: 90%;
       height: auto;
     }
   }
