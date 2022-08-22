@@ -179,7 +179,7 @@ body {
   }
   @media (max-width: 40em) {
     #footer {
-      height: auto;
+      height: 20vh;
     }
   }
   
@@ -291,6 +291,12 @@ body {
     max-width: 90vw;
     max-height: 70vh;
   }
+@media (max-width: 40em) {
+  .slide-img {
+    max-width: 70vw;
+    max-height: 70vh;
+  }
+}
   .container {
     margin: auto;
   }
@@ -299,7 +305,11 @@ body {
     max-height: 70vh;
     position: relative;
   }
-
+ @media (max-width: 40em) {
+  .slideshow-container {
+    padding: 10px 0px 10px 0px
+  }
+}
   .prev, .next {
     cursor: pointer;
     position: absolute;
@@ -381,6 +391,13 @@ body {
   max-width: 50%;
   margin: auto;
 }
+@media (max-width: 40em) {
+  .picture {
+    max-height: 70%;
+    max-width: 80%;
+    padding: 5px;
+  }
+}
 .img2 {
   height: 95%;
   margin: 2px;
@@ -404,6 +421,8 @@ body {
 .projectimg {
     max-height: 60vh;
     max-width: 60vw;
+    padding-top: 10px;
+    padding-bottom: 10px;
   }
 }
 .projectimg2 {
@@ -415,6 +434,8 @@ body {
   .projectimg2 {
     max-height: 80vh;
     max-width: 80vw;
+    padding-top: 10px;
+    padding-bottom: 10px;
   }
 }
 .projectimg3 {
@@ -426,6 +447,8 @@ body {
   .projectimg3 {
     max-height: 80vh;
     max-width: 80vw;
+    padding-top: 10px;
+    padding-bottom: 10px;
   }
 }
 .pro-description {
@@ -456,7 +479,7 @@ body {
     border-left: 1px solid #e6005c;
     padding: 10px 5px 5px 5px;
     width: 25%;
-    height: stretch;
+    height: 100%;
     float: right;
     background-color:rgba(255, 255, 255, 0.8);
     margin-left: 2px;
