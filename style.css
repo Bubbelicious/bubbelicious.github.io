@@ -15,7 +15,7 @@ body {
   }
   @media (max-width: 40em) {
     body {
-      background-size: 100% cover;
+      background-size: 100vw 100vh;
     }
   }
 
@@ -119,6 +119,7 @@ body {
   @media (max-width: 40em) {
     .project-item {
       flex-direction: column;
+      width: 90vw;
       height: auto;
       padding: 10px;
     }
@@ -274,6 +275,7 @@ body {
   }
   @media (max-width: 40em) {
     .project-item:hover {
+      width: 90vw;
       height: auto;
     }
   }
