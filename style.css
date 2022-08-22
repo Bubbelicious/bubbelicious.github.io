@@ -118,7 +118,7 @@ body {
   @media (max-width: 40em) {
     .project-item {
       flex-direction: column;
-      width: 80%;
+      width: 90%;
       height: auto;
       padding: 10px;
     }
@@ -128,13 +128,13 @@ body {
     background-color:rgba(255, 255, 255, 0.8);
     margin: 5px;
     padding: 20px;
-    width: 70%;
+    width: 60%;
   }
   .cv_content {
     background-color:rgba(255, 255, 255, 0.8);
     margin: 5px;
     padding: 20px;
-    width: 70%;
+    width: 60%;
   }
   .cv_header {
     margin-left: 20px;
@@ -274,7 +274,7 @@ body {
   }
   @media (max-width: 40em) {
     .project-item:hover {
-      width: 80%;
+      width: 90%;
       height: auto;
     }
   }
@@ -479,7 +479,7 @@ body {
     border-left: 1px solid #e6005c;
     padding: 10px 5px 5px 5px;
     width: 25%;
-    height: 100%;
+    height: cover;
     float: right;
     background-color:rgba(255, 255, 255, 0.8);
     margin-left: 2px;
@@ -492,7 +492,7 @@ body {
 @media (max-width: 40em) {
   .cv-img {
     max-width: 20vw;
-    max-height: 30vh;
+    max-height: 25vh;
     padding-left: 5px;
   }
 }
