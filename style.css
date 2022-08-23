@@ -146,7 +146,7 @@ body {
   }
   @media (max-width: 40em) {
     .cv_content, .cv_description {
-      width: 60%;
+      width: 90%;
     }
   }
   .cv_header {
@@ -501,6 +501,9 @@ body {
   justify-content: space-around;
 }
  .cv_right {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
     border-left: 1px solid #e6005c;
     padding: 10px 5px 5px 5px;
     width: 25%;
@@ -508,6 +511,27 @@ body {
     float: right;
     background-color:rgba(255, 255, 255, 0.8);
     margin-left: 2px;
+  }
+  .cv_skill {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    text-align: center;
+  }
+  @media (max-width: 40em) {
+    .cv_skill {
+      display: inline-block;
+      text-align: left;
+    }
+  }
+  @media (max-width: 40em) {
+    .cv_right {
+      border-left: none;
+      width: 90%;
+      float: none;
+      margin-left: 0;
+      margin-bottom: 5px;
+    }
   }
   .cv-img {
     width: 280px;
