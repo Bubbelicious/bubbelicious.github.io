@@ -176,6 +176,7 @@ body {
     margin: auto;
     text-align: left;
     padding-bottom: 10px;
+    width: auto;
   }
   .projecttext {
     margin: auto;
@@ -197,7 +198,7 @@ body {
   }
   @media (max-width: 40em) {
     #footer {
-      height: 15vh;
+      height: 10vh;
     }
   }
   
