@@ -82,7 +82,7 @@ body {
   #projects {
     display: flex;
     justify-content: space-around;
-    width: 100%;
+    width: 100vw;
   }
   #project-design {
     max-width: 90vw;
@@ -174,7 +174,6 @@ body {
     margin: auto;
     text-align: left;
     padding-bottom: 10px;
-    max-width: 100%;
   }
   .projecttext {
     margin: auto;
