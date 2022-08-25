@@ -179,9 +179,8 @@ body {
     width: auto;
   }
   .projecttext {
-    margin-left: 10px;
+    margin-left: auto;
     text-align: left;
-    max-width: 90%;
   }
   .projecttitle {
     font-family: 'Josefin Sans', sans-serif;
