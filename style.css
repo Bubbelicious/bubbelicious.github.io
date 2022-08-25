@@ -145,6 +145,7 @@ body {
   @media (max-width: 40em) {
     .cv_content, .cv_description {
       width: 90%;
+      padding: 5px;
     }
   }
   .cv_header {
@@ -213,7 +214,7 @@ body {
     font-weight: 500;
     font-size: 1.4em;
     padding: 5px 0px 5px 0px;
-    width: 18em;
+    max-width: 100%;
   }
   h3 {
     font-size: 1.6em;
@@ -521,8 +522,7 @@ body {
       border-left: none;
       width: 90%;
       float: none;
-      margin: auto;
-      margin-bottom: 5px;
+      margin: 5px;
     }
   }
   .cv-img {
