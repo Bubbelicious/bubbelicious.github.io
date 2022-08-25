@@ -181,6 +181,7 @@ body {
   .projecttext {
     margin: auto;
     text-align: left;
+    max-width: 90%;
   }
   .projecttitle {
     font-family: 'Josefin Sans', sans-serif;
@@ -236,7 +237,7 @@ body {
   .contact {
     font-size: 1em;
     font-family: 'Mukta', sans-serif;
-    margin: 0px;
+    margin: auto;
     text-align: center;
     color: #e6005c;
   }
@@ -506,23 +507,17 @@ body {
     flex-direction: column;
     border-left: 1px solid #e6005c;
     padding: 10px 5px 5px 5px;
-    width: 25%;
+    width: 22%;
     height: cover;
     float: right;
     background-color:rgba(255, 255, 255, 0.8);
-    margin-left: 2px;
+    margin: auto;
   }
   .cv_skill {
     display: flex;
     flex-wrap: wrap;
     flex-direction: column;
     text-align: center;
-  }
-  @media (max-width: 40em) {
-    .cv_skill {
-      display: inline-block;
-      text-align: left;
-    }
   }
   @media (max-width: 40em) {
     .cv_right {
@@ -536,13 +531,13 @@ body {
   .cv-img {
     width: 280px;
     height: 350px;
-    padding-left: 10px;
+    margin: auto;
   }
 @media (max-width: 40em) {
   .cv-img {
     max-width: 60vw;
-    max-height: 70vh;
-    margin: auto;
+    max-height: 60vh;
+    align-self: center;
   }
 }
   video {
