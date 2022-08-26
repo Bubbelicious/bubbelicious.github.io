@@ -180,6 +180,11 @@ body {
   .projecttext {
     margin: auto;
     text-align: left;
+    max-width: 60%;
+  }
+  .cv_text {
+    margin: auto;
+    text-align: left;
   }
   .projecttitle {
     font-family: 'Josefin Sans', sans-serif;
