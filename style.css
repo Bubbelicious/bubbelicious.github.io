@@ -107,7 +107,6 @@ body {
   @media (max-width: 40em) {
     .project-tile {
       margin-bottom: 5px;
-      width: 100vW;
     }
   }
   .project-item {
@@ -127,6 +126,7 @@ body {
       flex-direction: column;
       height: auto;
       padding: 5px;
+      width: 85%;
     }
   }
 
@@ -427,7 +427,7 @@ body {
 @media (max-width: 40em) {
   .img2, .img3 {
     max-height: 90%;
-    max-width: 25%;
+    max-width: 30%;
   }
 }
 .art-description {
