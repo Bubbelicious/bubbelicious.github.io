@@ -182,6 +182,11 @@ body {
     text-align: left;
     max-width: 60%;
   }
+  @media (max-width: 40em) {
+    .projecttext {
+      max-width: 90%;
+    }
+  }
   .cv_text {
     margin: auto;
     text-align: left;
