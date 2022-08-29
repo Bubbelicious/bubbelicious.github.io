@@ -436,7 +436,7 @@ body {
 }
 @media (max-width: 40em) {
   .img2, .img3 {
-    max-height: 90%;
+    max-height: 80%;
     max-width: 30%;
   }
 }
