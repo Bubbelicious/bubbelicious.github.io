@@ -300,13 +300,13 @@ body {
     opacity: 1;
   }
   .project-item:hover {
-    width: 93%;
+    width: 103%;
     height: 62vh;
     transition: .5s ease;
   }
   @media (max-width: 40em) {
     .project-item:hover {
-      width: 90%;
+      width: 95%;
       height: auto;
     }
   }
