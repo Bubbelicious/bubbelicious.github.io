@@ -117,7 +117,7 @@ body {
     justify-content: space-around;
     background-color: rgba(255, 255, 255, 0.8);
     height: 60vh;
-    width: 90%;
+    width: 100%;
     align-self: center;
     margin: 5px auto 10px auto;
     box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.3);
@@ -127,7 +127,7 @@ body {
       flex-direction: column;
       height: auto;
       padding: 5px;
-      width: 85%;
+      width: 95%;
     }
   }
 
