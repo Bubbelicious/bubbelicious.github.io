@@ -239,6 +239,9 @@ body {
   a {
     font-family: 'Mukta', sans-serif;
   }
+  .link_pane {
+    width: 90%;
+  }
   a:hover {
     text-decoration: underline;
   }
