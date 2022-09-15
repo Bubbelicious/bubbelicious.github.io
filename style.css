@@ -240,7 +240,7 @@ body {
   }
   .link_pane {
     width: 100%;
-    box-align: center;
+    margin: auto;
   }
   a:hover {
     text-decoration: underline;
