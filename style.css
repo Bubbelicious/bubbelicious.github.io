@@ -240,8 +240,7 @@ body {
     font-family: 'Mukta', sans-serif;
   }
   .link_pane {
-    width: 100%;
-    margin: auto;
+    width: 90%;
   }
   a:hover {
     text-decoration: underline;
