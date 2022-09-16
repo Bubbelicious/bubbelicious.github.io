@@ -186,7 +186,7 @@ body {
   }
   @media (max-width: 40em) {
     .projecttext {
-      max-width: 90%;
+      width: 90%;
     }
   }
   .cv_text {
