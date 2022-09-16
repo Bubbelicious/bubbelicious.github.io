@@ -243,6 +243,9 @@ body {
     width: 90%;
     align-items: center;
   }
+  .link_pane:hover {
+    text-decoration: none;
+  }
   a:hover {
     text-decoration: underline;
   }
