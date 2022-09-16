@@ -47,7 +47,6 @@ body {
     display: flex;
     justify-content: space-between;
     width: 100%;
-    padding-right: 20px;
   }
   ol > li {
     list-style-type: none;
