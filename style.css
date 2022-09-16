@@ -461,6 +461,9 @@ body {
     max-width: 30%;
   }
 }
+.qr_img {
+  width: 80%;
+}
 .art-description {
   background: rgba(255, 255, 255, 0.8);
   box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.3);
