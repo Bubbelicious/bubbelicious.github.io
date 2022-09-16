@@ -181,7 +181,7 @@ body {
   .projecttext {
     margin: auto;
     text-align: left;
-    max-width: 50%;
+    width: 50%;
   }
   @media (max-width: 40em) {
     .projecttext {
