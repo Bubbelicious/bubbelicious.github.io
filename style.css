@@ -241,6 +241,7 @@ body {
   }
   .link_pane {
     width: 90%;
+    align-self: center;
   }
   a:hover {
     text-decoration: underline;
@@ -419,14 +420,26 @@ body {
   }
 
 .picture {
-  max-height: 80%;
-  max-width: 50%;
+  height: 80%;
+  width: 45%;
   margin: auto;
 }
 @media (max-width: 40em) {
   .picture {
-    max-height: 70%;
-    max-width: 80%;
+    height: 45%;
+    width: 80%;
+    padding: 5px;
+  }
+}
+.picture2 {
+  height: 80%;
+  width: 40%;
+  margin: auto;
+}
+@media (max-width: 40em) {
+  .picture2 {
+    height: 60%;
+    width: 30%;
     padding: 5px;
   }
 }
