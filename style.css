@@ -277,7 +277,7 @@ body {
     .img1 {
       width: 25em;
       height: 25em;
-      border-radius: 150px;
+      border-radius: 160px;
     }
   }
   .overlay {
@@ -457,7 +457,7 @@ body {
     padding: 5px;
   }
 }
-@media (max-width: 40em) {
+@media (min-width: 1500px) {
   .picture {
     height: 75%;
     width: 30%;
