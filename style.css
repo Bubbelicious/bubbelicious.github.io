@@ -498,6 +498,19 @@ body {
   padding: 10px;
   margin: auto;
 }
+.navimg {
+  max-height: 40vh;
+  max-width: 15vw;
+  margin: auto;
+}
+@media (max-width: 40em) {
+.navimg {
+    max-height: 60vh;
+    max-width: 60vw;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+}
 .projectimg {
   max-height: 60vh;
   max-width: 20vw;
@@ -528,13 +541,13 @@ body {
   max-height: 60vh;
   max-width: 60vw;
   margin: auto;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 @media (max-width: 40em) {
   .projectimg3 {
     max-height: 80vh;
     max-width: 80vw;
-    padding-top: 10px;
-    padding-bottom: 10px;
   }
 }
 .pro-description {
