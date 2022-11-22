@@ -500,7 +500,7 @@ body {
 }
 .navimg {
   max-height: 40vh;
-  max-width: 15vw;
+  width: 15vw;
   margin: auto;
 }
 @media (max-width: 40em) {
