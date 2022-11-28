@@ -42,7 +42,7 @@ body {
   }
   .setting_ul {
     width: 40%;
-    margin: auto;
+    margin: 0, auto;
   }
   a {
     text-decoration: none;
