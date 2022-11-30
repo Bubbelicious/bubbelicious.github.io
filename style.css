@@ -95,7 +95,7 @@ body {
   }
   @media (min-width: 1500px) {
     #project-design {
-      max-width: 70vW;
+      max-width: 75vW;
     }
   }
   #about_me {
