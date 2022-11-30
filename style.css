@@ -281,7 +281,7 @@ body {
     .img1 {
       width: 25em;
       height: 25em;
-      border-radius: 160px;
+      border-radius: 180px;
     }
   }
   .overlay {
@@ -294,6 +294,11 @@ body {
     right: 0;
     left: 0;
     transition: .5s ease;
+  }
+  @media (min-width: 1500px) {
+    .overlay {
+      border-radius: 180px;
+    }
   }
   .overlay1 {
     background-color: rgba(217, 217, 217, 0.8);
