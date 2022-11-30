@@ -35,11 +35,6 @@ body {
       flex-direction: column;
     }
   }
-  @media (min-width: 1500px) {
-    .project-page {
-      height: 65vh;
-    }
-  }
   .setting_ul {
     width: 40%;
     margin: 0, auto;
@@ -100,7 +95,7 @@ body {
   }
   @media (min-width: 1500px) {
     #project-design {
-      max-width: 75vW;
+      max-width: 70vW;
     }
   }
   #about_me {
