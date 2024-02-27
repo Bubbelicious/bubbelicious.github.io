@@ -159,7 +159,6 @@ body {
   }
   .cv_header {
     margin-left: 20px;
-    margin-bottom: 0px;
   }
   @media (max-width: 40em) {
     .cv_header {
